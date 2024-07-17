@@ -9,9 +9,6 @@ import { title, subtitle } from "@/components/primitives";
 import { GithubIcon } from "@/components/icons";
 import DefaultLayout from "@/layouts/default";
 
-// const person = { name: "John" };
-// const data = _get(person, "name");
-
 export default function IndexPage() {
   return (
     <DefaultLayout>
